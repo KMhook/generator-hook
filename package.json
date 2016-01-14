@@ -1,0 +1,29 @@
+{
+  "name": "generator-hook",
+  "version": "0.0.1",
+  "description": "KMhook's generator",
+  "files": [
+    "app",
+    "router",
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KMhook/generator-hook.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "kmhook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KMhook/generator-hook/issues"
+  },
+  "homepage": "https://github.com/KMhook/generator-hook#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.22.3"
+  }
+}
